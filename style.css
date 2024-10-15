@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(228, 224, 225);
+}
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 4rem;
+    margin-top: 0;
+    position: relative;
+    top: 20px;
+    color: rgb(219, 219, 219);
+    
+}
+h2{
+    font-size: 2.5rem;
+}
+.anchluss{
+    
+    float: left;
+    margin-right: 20px;
+    
+}
+.Bilgi1{
+    float: left;
+    width: 45%;
+    
+}
+.baslik{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 20px;
+    
+    
+}
+img{
+    width: 450px;
+    height: 400px;
+    border: 2px solid red;
+    border-radius: 2%;
+    margin-bottom: 20px;
+}
+.Bilgi2{
+    float: right;
+    width: 45%;
+}
+p{
+    font-size: 1.2rem;
+}
+.munihc{
+    float: right;
+    margin-left: 20px;
+}
+.baslik2{
+    position: relative;
+    bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    position: relative;
+    bottom: 20px;
+}
+.divbaslik{
+    background-color: rgb(24, 28, 20)
+}
